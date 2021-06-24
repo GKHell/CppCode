@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-	char name[] = "You";
+	char name[] = "me";
 
 		cout<<"Hello World\t"<<name<<endl;
 
